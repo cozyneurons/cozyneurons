@@ -24,7 +24,7 @@ $ cat about_me.txt
 
 <br>
 
-## :: socials
+## Socials
 
 <div align="center">
 
@@ -37,7 +37,7 @@ $ cat about_me.txt
 
 <br>
 
-## :: tech stack
+## Tech Stack
 
 **Languages**
 
@@ -65,7 +65,7 @@ $ cat about_me.txt
 
 <br>
 
-## :: github analytics
+## Github Analytics
 
 <div align="center">
 
@@ -76,7 +76,7 @@ $ cat about_me.txt
 
 </div>
 
-## :: trophy case
+## Trophy Case
 
 <div align="center">
 
@@ -84,7 +84,7 @@ $ cat about_me.txt
 
 </div>
 
-## :: top contributed repo
+## Top Contributed Repo
 
 <div align="center">
 
@@ -94,7 +94,7 @@ $ cat about_me.txt
 
 <br>
 
-## :: competitive programming
+## Competitive Programming
 
 <div align="center">
 
