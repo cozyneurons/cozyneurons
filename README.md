@@ -8,9 +8,6 @@
 
 <br>
 
-```bash
-$ cat about_me.txt
-```
 
 ```
 🔭  Currently building   : an AI agent that reviews contracts & legal
