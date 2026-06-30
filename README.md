@@ -88,10 +88,6 @@
 
 <br>
 
-<div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=cozyneurons&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%"/>
