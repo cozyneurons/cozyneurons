@@ -73,22 +73,6 @@
 
 </div>
 
-## Trophy Case
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=cozyneurons&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
-
-</div>
-
-## Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=cozyneurons&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
 <br>
 
 ## Competitive Programming
