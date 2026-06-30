@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Shubham%20Singh&fontSize=55&fontColor=39FF14&fontAlignY=35&animation=fadeIn&desc=%3E%20root%40shubham%20~%20%23%20building%20things%20that%20solve%20real%20problems&descAlignY=55&descSize=16&descColor=00F0FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Shubham%20Kumar&fontSize=55&fontColor=39FF14&fontAlignY=35&animation=fadeIn&desc=%3E%20root%40shubham%20~%20%23%20building%20things%20that%20solve%20real%20problems&descAlignY=55&descSize=16&descColor=00F0FF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=39FF14&background=000000&center=true&vCenter=true&width=700&height=50&lines=root%40shubham%3A~%24+whoami;%3E%3E+Building+an+AI+agent+for+legal+%2F+contract+review;%3E%3E+Competitive+Programmer+%7C+2nd+Year+CS;%3E%3E+Learning+FastAPI+%2B+React.js;%3E%3E+Open+to+Open+Source+collabs" />
 
